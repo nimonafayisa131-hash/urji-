@@ -72,7 +72,7 @@ const DEFAULT_COURSES = [
 ];
 
 const DEFAULT_SETTINGS = {
-  timeMins: 0,
+  timeMins: 20,
   passPercent: 50,
   qCount: 0,
   shuffleQ: true,
