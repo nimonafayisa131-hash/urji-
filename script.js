@@ -1,6 +1,6 @@
 // ===== CONSTANTS =====
-const ADMIN_USER = 'admin';
-const ADMIN_PASS = 'admin123';
+const ADMIN_USER = 'nima';
+const ADMIN_PASS = 'nima2026';
 const SK_RESULTS   = 'eq2_results';
 const SK_ATTEMPTED = 'eq2_attempted';
 const SK_COURSES   = 'eq2_courses';
@@ -72,7 +72,7 @@ const DEFAULT_COURSES = [
 ];
 
 const DEFAULT_SETTINGS = {
-  timeMins: 20,
+  timeMins: 0,
   passPercent: 50,
   qCount: 0,
   shuffleQ: true,
