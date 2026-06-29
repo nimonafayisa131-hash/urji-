@@ -206,12 +206,12 @@ body {
 
 .form-card {
   background: var(--navy-light);
-  border: 1px solid rgb(255,255,255);
+  border: 1px solid darkgreen;
   border-radius: 20px;
   padding: 2.5rem;
   max-width: 500px;
   width: 100%;
-  box-shadow: 2px 2px 6px lime;
+  box-shadow: 2px 2px 6px green;
 }
 
 .form-card h2 {
